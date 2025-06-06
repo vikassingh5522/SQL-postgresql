@@ -1,0 +1,12 @@
+"engineer_id","name","age","salary","date_of_join","birthday","company_name"
+1,"Vikas singh",25,"85000.00","2020-06-15","1995-03-10","Vikas ltd"
+2,"Priya Mehta",30,"40000.00","2018-09-01","1993-11-22","Vikas ltd"
+3,"Raj Patel",26,"78000.00","2021-02-10","1997-07-05","HCL Technologies"
+4,"Sneha Iyer",31,"40000.00","2019-11-20","1992-12-15","Vikas ltd"
+5,"Rohit Verma",27,"83000.00","2020-04-05","1996-05-18","Wipro Ltd"
+6,"Kavya Nair",29,"91000.00","2022-01-12","1994-06-25","L&T Infotech"
+7,"Aditya Singh",32,"40000.00","2021-07-19","1991-08-14","Vikas ltd"
+8,"Neha Kulkarni",35,"40000.00","2017-03-22","1989-10-09","Vikas ltd"
+9,"Vikram Joshi",33,"40000.00","2019-08-30","1990-02-17","Vikas ltd"
+10,"Ishita Desai",30,"40000.00","2020-11-01","1993-12-02","Vikas ltd"
+11,"vishal singh",24,"70000.00","2008-08-08",NULL,NULL
